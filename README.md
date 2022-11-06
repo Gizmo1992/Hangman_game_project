@@ -1,2 +1,3 @@
 # Hangman_game_project
 It is a simple hangman game, where the user has to find out the word before he/she runs out of lives.
+I made this program because it was a challenge in one of my Udemy classes (Total Python: Become an advenced Python developer in 16 days). I managed to solve it without checking the solutions first. The program choose a random word from a list I previously made, and the user has to type a character, and the program checks if that character is present in the word or not. The program also displays that where is the user input location in the word by replacing the "_" with the actual letter.
